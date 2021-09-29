@@ -1,0 +1,14 @@
+### Cadastrar automovel
+POST https://localhost:5001/concessionaria/automovel/cadastrar
+Content-Type: application/json
+
+{
+    "Id": "2",
+    "Marca": "Ferrari",
+    "Modelo": "458 Italia",
+    "Ano": "2009",
+    "Preco": "1567999.99"
+}
+
+### Listar automovel
+GET https://localhost:5001/concessionaria/automovel/listar
