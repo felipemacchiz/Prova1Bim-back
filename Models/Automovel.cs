@@ -6,6 +6,6 @@ namespace Prova1Bim_back.Models
         public string Marca { get; set; }
         public string Modelo { get; set; }
         public int Ano { get; set; }
-        public double preco { get; set; }
+        public double Preco { get; set; }
     }
 }

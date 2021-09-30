@@ -3,11 +3,11 @@ POST https://localhost:5001/concessionaria/automovel/cadastrar
 Content-Type: application/json
 
 {
-    "Id": "2",
-    "Marca": "Ferrari",
-    "Modelo": "458 Italia",
-    "Ano": "2009",
-    "Preco": "1567999.99"
+    "Id": "1",
+    "Marca": "VW",
+    "Modelo": "Fusquinha",
+    "Ano": "1962",
+    "Preco": "2.99"
 }
 
 ### Listar automovel
